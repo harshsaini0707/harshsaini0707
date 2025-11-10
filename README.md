@@ -1,4 +1,6 @@
-## Hi there 👋
+## नमस्ते, I'm Harsh — A Full Stack Web Developer.
+I build fast, scalable, and interactive web apps using Typescript , React , Next.js , Bun , MongoDB and PostgreSQL . With a focus on building production-ready solutions . Currently enthusiastic about AI application engineering.
+
 
 <!--
 **harshsaini0707/harshsaini0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
